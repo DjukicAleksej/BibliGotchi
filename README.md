@@ -40,3 +40,6 @@ BibliGotchi is a project built on the Seeed studio xiao-esp32-c6 , using a custo
 | Top View | Top Side View|
 | --- | --- |
 | <img src="Images/Case_Images/Top_View.png" alt="Normal case view" width="420"> | <img src="Images/Case_Images/Top_Side-View.png" alt="Top side-view" width="420"> |
+| Bottom View | Exploded View |
+| --- | --- |
+| <img src="Images/Case_Images/Bottom_View.png" width="420"> | <img src="Images/Case_Images/Exploded_View.png" width = "420">|
