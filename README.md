@@ -33,7 +33,7 @@
 </p>
 ---
 ## Overview
-BibliGotchi is a project built on the Seeed studio xiao-esp32-c6 , using a custom PCB to make everything connected and work. BibliGotchi Features a 0.96' OLED Screen, a 3.7V 500mAH battery, a passive buzzer, 3x buttons for interactivity. I also built a custom case in OnShape, here is the <a href="https://cad.onshape.com/documents/44d918d4bf107306610f1545/w/f7f086a823beff1369bb4e84/e/70df229ea8fe1c8cd39e3565">OnShape Link </a>. The case features nicely made top and bottom cover, that I used filet on to eliminate sharp edges, I also added holes for the USB-C connection to the ESP32, the screen and inserting the battery. I also made a custom enclosure inside to keep the battery in, where u screw in 2 screws after putting in the battery and they keep it in.
+BibliGotchi is a project built on the Seeed studio xiao-esp32-c6 , using a custom PCB designed in KiCad to make everything connected and work. BibliGotchi Features a 0.96' OLED Screen, a 3.7V 500mAH battery, a passive buzzer, 3x buttons for interactivity. I also built a custom case in OnShape, here is the <a href="https://cad.onshape.com/documents/44d918d4bf107306610f1545/w/f7f086a823beff1369bb4e84/e/70df229ea8fe1c8cd39e3565">OnShape Link </a>. The case features nicely made top and bottom cover, that I used filet on to eliminate sharp edges, I also added holes for the USB-C connection to the ESP32, the screen and inserting the battery. I also made a custom enclosure inside to keep the battery in, where u screw in 2 screws after putting in the battery and they keep it in. The firmware is developed in Arduino UNO using C++, it keeps the record of age, happines and other stats, and updates them as we interact with the BibliGotchi.It also displays the stats with progress bars.I also drew 4 sprites for the sleep,happy,sad,neutral states in a 32x32 pixel format.
 
 ## Case Galery
 
@@ -41,5 +41,23 @@ BibliGotchi is a project built on the Seeed studio xiao-esp32-c6 , using a custo
 | --- | --- |
 | <img src="Images/Case_Images/Top_View.png" alt="Normal case view" width="420"> | <img src="Images/Case_Images/Top_Side-View.png" alt="Top side-view" width="420"> |
 | Bottom View | Exploded View |
-| --- | --- |
 | <img src="Images/Case_Images/Bottom_View.png" width="420"> | <img src="Images/Case_Images/Exploded_View.png" width = "420">|
+
+
+## PCB Gallery
+| Top View |
+| <img src="Images/PCB_Images/PCB_Front1.png"> | <img src="Images/PCB_Images/PCB_Front2.png"> |
+| Bottom View |
+| <img src="Images/PCB_Images/PCB_Back1.png"> | <img src="Images/PCB_Images/PCB_Back2.png"> |
+
+## Routing
+| Top Routing | Bottom Routing |
+| <img src="Images/PCB_Images/Routing_Top.png"> | <img src="Images/PCB_Images/Routing_Bottom.png"> |
+
+
+## How to Assemble the Case Tutorial
+# Step 1
+<p>
+  Just place the PCB on the bottom part , align the holes with the supports, just like this:
+  
+</p>
