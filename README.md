@@ -32,3 +32,11 @@
   <a href="BOM/BOM.csv">PCB BOM</a>
 </p>
 ---
+## Overview
+BibliGotchi is a project built on the Seeed studio xiao-esp32-c6 , using a custom PCB to make everything connected and work. BibliGotchi Features a 0.96' OLED Screen, a 3.7V 500mAH battery, a passive buzzer, 3x buttons for interactivity. I also built a custom case in OnShape, here is the <a href="https://cad.onshape.com/documents/44d918d4bf107306610f1545/w/f7f086a823beff1369bb4e84/e/70df229ea8fe1c8cd39e3565">OnShape Link </a>. The case features nicely made top and bottom cover, that I used filet on to eliminate sharp edges, I also added holes for the USB-C connection to the ESP32, the screen and inserting the battery. I also made a custom enclosure inside to keep the battery in, where u screw in 2 screws after putting in the battery and they keep it in.
+
+## Case Galery
+
+| Top View | Top Side View|
+| --- | --- |
+| <img src="Images/Case_Images/Top_View.png" alt="Normal case view" width="420"> | <img src="Images/Case_Images/Top_Side-View.png" alt="Top side-view" width="420"> |
