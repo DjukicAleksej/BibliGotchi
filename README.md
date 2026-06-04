@@ -78,7 +78,7 @@ BibliGotchi is a project built on the Seeed studio xiao-esp32-c6 , using a custo
 
 | Align the Top Part | Screw it into the bottom part through the PCB |
 | --- | --- |
-| <img src="Images/Assembly_Tutorial/Step1_1.png"> | <img src="Images/Assembly_Tutorial/Step2_2.png"> |
+| <img src="Images/Assembly_Tutorial/Step1_1.png"> | <img src="Images/Case_Images/Top_Side-View.png"> |
 
 # Step 3
 <p>
