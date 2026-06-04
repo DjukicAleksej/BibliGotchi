@@ -20,3 +20,15 @@
   in this world full of everything on the web, having something that you interact with physically makes it different and cooler, a project I really was hoping
   to build. It helped me better understand Firmware development, and also I improved my case design skills.
 </p>
+
+---
+<p align="center">
+  <a href="Zine.pdf">Read the zine</a>
+  &nbsp;|&nbsp;
+  <a href="PCB-Files/Gerbers.zip">Download Gerbers</a>
+  &nbsp;|&nbsp;
+  <a href="Case-Files/">STEP case files</a>
+  &nbsp;|&nbsp;
+  <a href="BOM/BOM.csv">PCB BOM</a>
+</p>
+---
