@@ -4,6 +4,7 @@
   A custom made Tamagotchi, with a heavenly touch. Made by a 17 year old from Bosnia and Herzegovina, this project is a showcase of my learning in the hardware
   related space. I made this using KiCad for the PCB, OnShape for the case and Arduino IDE for the firmware.
 </p>
+<img src="Images/Case_Images/Top_Side-View.png" width="760">
 <p>
   This tamagotchi features 3 main stats: Hunger, Energy and Happiness.
   You can improve these by interacting with the tamagotchi through the buttons, each button does something different , like play, feed or sleep.
