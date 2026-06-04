@@ -45,13 +45,17 @@ BibliGotchi is a project built on the Seeed studio xiao-esp32-c6 , using a custo
 
 
 ## PCB Gallery
-| Top View |
+
+| Top View 1 | Top View 2 |
+| --- | --- |
 | <img src="Images/PCB_Images/PCB_Front1.png"> | <img src="Images/PCB_Images/PCB_Front2.png"> |
-| Bottom View |
+| Bottom View 1 | Bottom View 2 |
 | <img src="Images/PCB_Images/PCB_Back1.png"> | <img src="Images/PCB_Images/PCB_Back2.png"> |
 
 ## Routing
+
 | Top Routing | Bottom Routing |
+| --- | --- |
 | <img src="Images/PCB_Images/Routing_Top.png"> | <img src="Images/PCB_Images/Routing_Bottom.png"> |
 
 
