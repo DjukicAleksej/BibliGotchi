@@ -113,5 +113,105 @@ BibliGotchi is a project built on the Seeed studio xiao-esp32-c6 , using a custo
 
 <p>
   The firmware is made in Arduino IDE using C++, it tracks the age of the tamagotchi, and is listening for clicks of buttons to update the tamagotchi.
-  
+  The left button does the action Feed, which increses the HUN(hunger) stat, meaning the PET is good on hunger.
+  The middle button is for Play which decreases ENG(energy) by 5 , but increases HAP(happiness) by 10;
+  The right button makes the PET Sleep, it puts it into the sleep state and displays it sleeping, and while it does so , it increases ENG(energy) by 15.
 </p>
+
+## BibliGotchi Different States Pictures
+
+| Sad state (if any stat is < 30) | Happy state (all stats > 50) |
+| --- | --- |
+| <img src="Images/Firmware_Images/Sad.png"> | <img src="Images/Firmware_Images/Happy.png"> |
+| Neutral state (if its not in any other state) | Sleep state (you press the Sleep button |
+| <img src="Images/Firmware_Images/Neutral.png"> | <img src="Images/Firmware_Images/Sleep.png"> |
+
+<h2>
+  How to install and flash the firmware?
+</h2>
+<ol>
+  <li>
+    Go to the <a href=Firmware> Firmware </a> folder of this github page, and install the BibliGotchi_Firmware.ino ;
+  </li>
+  <li>
+    Go into Arduino IDE
+  </li>
+  <li>
+     <h3> Step 1:Install the ESP32 Board Package</h3>
+    <p>ESP32 support isn't included by default, so you need to add Espressif's board package URL.</p>
+    <ul>
+      <li>
+        Open the Arduino IDE.
+      </li>
+      <li>
+        Go to File > Preferences (or Arduino IDE > Settings on macOS).
+      </li>
+      <li>
+        In the "Additional Boards Manager URLs" field, add the following URL: https://espressif.github.io/arduino-esp32/package_esp32_index.json > Note: If you already have URLs here, separate entries with commas.
+      </li>
+      <li>
+        Click OK to save the preferences.
+      </li>
+      <li>
+        Wait for the board index to download.
+      </li>
+    </ul>
+  </li>
+  <li>
+    <h2>Step 2: Install the Board in Boards Manager</h2>
+    <ul>
+      <li>
+        Open the Boards Manager by navigating to Tools > Board > Boards Manager.
+      </li>
+      <li>
+        In the search bar, type esp32.
+      </li>
+      <li>
+        Locate the entry for "esp32 by Espressif Systems".
+      </li>
+      <li>
+        Click the Install button. > Important: Ensure you are using version 3.0.0 or later, which supports the C6.
+      </li>
+      <li>
+        Wait for the installation to finish.
+      </li>
+    </ul>
+  </li>
+  <li>
+    <h2>Step 3: Make a new project file</h2>
+     <p>
+   Create a new Arduino sketch: File > New Sketch, then save it as Tamagotchi.ino or whatever you want to call it.
+   </p>
+  </li>
+  <li>
+    <h2>Step 4: Select the Board and the Port </h2>
+    <ol>
+      <li>After making the new project, go to Tools > Board > esp32</li>
+      <li>Select your board model: XIAO ESP32C6</li>
+    </ol>
+  </li>
+  <li>
+    <h2>Step 5: Install the libraries </h2>
+    <p>In Sketch > Include Library > Manage Libraries, install:</p>
+    <ol>
+      <li>Adafruit SSD1306 (by Adafruit)</li>
+      <li>Adafruit GFX Library (by Adafruit), which will be prompted as a dependency</li>
+    </ol>
+  </li>
+  <li>
+    <h2>Step 6: Uploading the code </h2>
+    <p>Connect your XIAO-ESP32-C6 to your PC or Laptop with Arduino IDE opened with a USB-C cable, Copy and past the BibliGothi_Firmware.ino into your own sketch, or maybe you have installed it and followed the steps above already.</p>
+    <ol>
+      <li>
+        Click the Verify button, looks like a checkmart in the top left corner.
+      </li>
+      <li>
+        Click the Upload button, it is right besides the Verify button , looks like an arrow pointint right.
+      </li>
+    </ol>
+  </li>
+  <li>
+  <h2>Step 7: Enjoy</h2>
+    <p>You have now finished both the case assembly and the firmware setup , so you are free to play with your new friend BibliGotchi.</p>
+  </li>
+</ol>
