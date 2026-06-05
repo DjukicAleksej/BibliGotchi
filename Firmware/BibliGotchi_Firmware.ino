@@ -323,8 +323,11 @@ void render(){
   drawBar(62, 25, pet.energy);
 
   // Bottom action options adjusted perfectly within 128px screen wrap constraints
-  display.setCursor(2, 52);
-  display.println("[Feed]  [Play]  [Sleep]");
+  int textWidth = 102;
+  int x = (128 - textWidth) / 2;  // 13
+
+  display.setCursor(13, 52);
+  display.println("Feed  Play  Sleep");
 
   display.display();
 }
