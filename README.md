@@ -37,7 +37,7 @@
 </div>
 
 ## 🔍 Overview
-BibliGotchi is built around the **Seeed Studio XIAO ESP32-C6**, utilizing a custom PCB routed in KiCad to interface all peripherals smoothly. 
+BibliGotchi is built around the **Seeed Studio XIAO ESP32-C3**, utilizing a custom PCB routed in KiCad to interface all peripherals smoothly. 
 
 ### Key Features:
 * **Display**: 0.96" OLED screen for crisp UI rendering.
@@ -88,10 +88,10 @@ BibliGotchi is built around the **Seeed Studio XIAO ESP32-C6**, utilizing a cust
 | Battery | Single-cell battery | Battery_Cell | | 1 | 1 | $5.11 | $5.11 | [Datasheet](https://www.kiwi-electronics.com/image/catalog/pdf/LP503035%20500mAh%203.7V%20%28AD306053%29%2020230615%5B34%5D.pdf), [Purchase Link](https://www.aliexpress.com/item/1005006043243361.html) |
 | Buzzer | Passive Buzzer | 1207-P6.5MM | C49246964 | 1 | 10 | $0.03 | $0.32 | [Datasheet](https://www.lcsc.com/datasheet/C49246964.pdf), [Purchase Link](https://www.lcsc.com/product-detail/C49246964.html) |
 | Switch | Push button switch, generic, two pins | SW_Push | C2888493 | 3 | 50 | $0.01 | $0.54 | [Datasheet](https://www.lcsc.com/datasheet/C2888493.pdf), [Purchase Link](https://www.lcsc.com/product-detail/C2888493.html) |
-| ESP32-C6 MCU | IoT mini development board | XIAO-ESP32-C3-SMD | | 1 | 1 | $6.15 | $6.15 | [Datasheet](https://files.seeedstudio.com/wiki/SeeedStudio-XIAO-ESP32C6/res/esp32-c6_datasheet_en.pdf), [Purchase Link](https://www.aliexpress.com/item/1005006987272421.html) |
+| ESP32-C3 MCU | IoT mini development board | XIAO-ESP32-C3-SMD | | 1 | 1 | $6.15 | $5.67 | [Datasheet](https://files.seeedstudio.com/wiki/XIAO_WiFi/Resources/esp32-c3_datasheet.pdf), [Purchase Link](https://www.aliexpress.com/item/1005006979844970.html) |
 | OLED Display | 0.96" Inch OLED Display | HS96L03W2C03 | C5248080 | 1 | 1 | $2.24 | $2.24 | [Datasheet](https://www.lcsc.com/datasheet/C5248080.pdf), [Purchase Link](https://www.lcsc.com/product-detail/C5248080.html) |
 | PCB + Shipping | Hardware Fabrication Support | - | - | 1 | 5 | - | $30.00 | - |
-| **Total** | | | | **8** | **68** | **$13.54** | **$44.36** | |
+| **Total** | | | | **8** | **68** | **$13.54** | **$43.88** | |
 
 ### ⚙️ Structural Fasteners (Build BOM)
 
@@ -177,14 +177,14 @@ Because ESP32 variants require platform abstraction extensions, add the official
 1. Enter the Board Repository panel via **Tools** > **Board** > **Boards Manager**.
 2. Run an evaluation sweep searching for `esp32`.
 3. Locate **esp32 by Espressif Systems** and click **Install**. 
-   *(Important: Verify package versions display `3.0.0` or newer to guarantee complete ESP32-C6 controller support).*
+   *(Important: Verify package versions display `3.0.0` or newer to guarantee complete ESP32-C3 controller support).*
 
 ### Step 3: Instantiate local Sketch Files
 Create a fresh runtime workspace profile inside the environment via **File** > **New Sketch**. Save this locally on your machine.
 
 ### Step 4: Bind Target Hardware Options
 1. Go to **Tools** > **Board** > **esp32**.
-2. Choose your precise module footprint: **XIAO ESP32C6**.
+2. Choose your precise module footprint: **XIAO ESP32C3**.
 3. Select your system hardware serial mount path line entry under **Tools** > **Port**.
 
 ### Step 5: Resolve Peripheral Libraries
