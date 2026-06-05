@@ -66,6 +66,11 @@ BibliGotchi is built around the **Seeed Studio XIAO ESP32-C6**, utilizing a cust
 | **Bottom View 1** | **Bottom View 2** |
 | <img src="Images/PCB_Images/PCB_Back1.png" width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"> | <img src="Images/PCB_Images/PCB_Back2.png" width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"> |
 
+### Schematic
+
+<p align="center">
+  <img src="Images/PCB_Images/Schematics.png" alt="USB hub schematic" width="860">
+</p>
 ---
 
 ## 🗺️ Trace Routing
