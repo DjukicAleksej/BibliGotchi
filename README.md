@@ -60,6 +60,28 @@ BibliGotchi is a project built on the Seeed studio xiao-esp32-c6 , using a custo
 | --- | --- |
 | <img src="Images/PCB_Images/Routing_Top.png"> | <img src="Images/PCB_Images/Routing_Bottom.png"> |
 
+### 🛠️ Bill of Materials (BOM)
+
+| Item | Description | Value | LCSC Part | Qty | MOQ | Unit Price | Total Price | Resources |
+| :--- | :--- | :--- | :--- | :---: | :---: | :---: | :---: | :--- |
+| Battery | Single-cell battery | Battery_Cell |  | 1 | 1 | $5.11 | $5.11 | [Datasheet](https://www.kiwi-electronics.com/image/catalog/pdf/LP503035%20500mAh%203.7V%20%28AD306053%29%2020230615%5B34%5D.pdf), [Purchase Link](https://www.aliexpress.com/item/1005006043243361.html) |
+| Buzzer | Passive Buzzer | 1207-P6.5MM | C49246964 | 1 | 10 | $0.03 | $0.32 | [Datasheet](https://www.lcsc.com/datasheet/C49246964.pdf), [Purchase Link](https://www.lcsc.com/product-detail/C49246964.html) |
+| Switch | Push button switch, generic, two pins | SW_Push | C2888493 | 3 | 50 | $0.01 | $0.54 | [Datasheet](https://www.lcsc.com/datasheet/C2888493.pdf), [Purchase Link](https://www.lcsc.com/product-detail/C2888493.html) |
+| ESP32-C6 MCU | IoT mini development board | XIAO-ESP32-C3-SMD |  | 1 | 1 | $6.15 | $6.15 | [Datasheet](https://files.seeedstudio.com/wiki/SeeedStudio-XIAO-ESP32C6/res/esp32-c6_datasheet_en.pdf), [Purchase Link](https://www.aliexpress.com/item/1005006987272421.html) |
+| OLED Display | 0.96' Inch OLED Display | HS96L03W2C03 | C5248080 | 1 | 1 | $2.24 | $2.24 | [Datasheet](https://www.lcsc.com/datasheet/C5248080.pdf), [Purchase Link](https://www.lcsc.com/product-detail/C5248080.html) |
+| PCB + Shipping | | | | 1 | 5 | | $30.00 | - |
+| **Total** | | | | **8** | **68** | **$13.54** | **$44.36** | |
+
+### ⚙️ Build BOM
+
+| Item | Description | Quantity | Total Price |
+| :--- | :--- | :--- | :--- |
+| M3 L20 Screws | M3 Screws Length 20mm used to connect the Bottom and Top part and hold the PCB in place | 2 | $0.10 (Bulk: ~$5.00) |
+| M2 Screws L16mm | M2 Screws Length 16mm to screw into the sides for more stability | 2 | $0.10 (Bulk: ~$5.00) |
+| M2 Screws L8mm | M2 Screws Length 8mm to help hold the battery in place | 2 | $0.10 (Bulk: ~$4.00) |
+| M3 Heat Set Inserts | M3 Inserts to help you hold the screw firmly and stable | 2 | $0.10 (Bulk: ~$4.00) |
+| M2 Heat Set Inserts | M2 Inserts to hold your screws tight | 4 | $0.20 (Bulk: ~$4.00) |
+| **Total** | | **12** | **$0.60** (Actual Bulk Total: ~$22.00) |
 
 ## How to Assemble the Case Tutorial
 # Step 1
