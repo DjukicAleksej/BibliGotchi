@@ -129,7 +129,7 @@ BibliGotchi is a project built on the Seeed studio xiao-esp32-c6 , using a custo
 <h2>
   How to install and flash the firmware?
 </h2>
-<ol>
+<ul>
   <li>
     Go to the <a href=Firmware> Firmware </a> folder of this github page, and install the BibliGotchi_Firmware.ino ;
   </li>
@@ -214,4 +214,4 @@ BibliGotchi is a project built on the Seeed studio xiao-esp32-c6 , using a custo
   <h2>Step 7: Enjoy</h2>
     <p>You have now finished both the case assembly and the firmware setup , so you are free to play with your new friend BibliGotchi.</p>
   </li>
-</ol>
+</ul>
