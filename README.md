@@ -21,6 +21,8 @@
   to build. It helped me better understand Firmware development, and also I improved my case design skills.
 </p>
 
+<img src="Zine.png">
+
 ---
 <p align="center">
   <a href="Zine.pdf">Read the zine</a>
