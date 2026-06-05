@@ -107,3 +107,11 @@ BibliGotchi is a project built on the Seeed studio xiao-esp32-c6 , using a custo
 | --- | --- |
 | <img src="Images/Assembly_Tutorial/Step5_1.png"> | <img src="Images/Assembly_Tutorial/Step5_2.png"> |
 
+---
+
+## Firmware 
+
+<p>
+  The firmware is made in Arduino IDE using C++, it tracks the age of the tamagotchi, and is listening for clicks of buttons to update the tamagotchi.
+  
+</p>
