@@ -239,3 +239,13 @@ BibliGotchi is a project built on the Seeed studio xiao-esp32-c6 , using a custo
     <p>You have now finished both the case assembly and the firmware setup , so you are free to play with your new friend BibliGotchi.</p>
   </li>
 </ul>
+
+<hr>
+
+<div align="center">
+
+Built with ❤️ by Aleksej Djukic
+
+BibliGotchi • Fallout 2026
+
+</div>
