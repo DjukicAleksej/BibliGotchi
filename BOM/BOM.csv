@@ -1,9 +1,9 @@
-,Item,Description,Value,Datasheet,LCSC Part,Link,Qty,MOQ,Unit Price,Total Price
-,Battery,Single-cell battery,Battery_Cell,https://www.kiwi-electronics.com/image/catalog/pdf/LP503035%20500mAh%203.7V%20%28AD306053%29%2020230615%5B34%5D.pdf,-,https://www.aliexpress.com/item/1005006043243361.html,1,1,$5.11 ,$5.11 
-,Buzzer,Passive Buzzer,1207-P6.5MM,https://www.lcsc.com/datasheet/C49246964.pdf,C49246964,https://www.lcsc.com/product-detail/C49246964.html,1,10,$0.03 ,$0.32 
-,Switch,"Push button switch, generic, two pins",SW_Push,https://www.lcsc.com/datasheet/C2888493.pdf,C2888493,https://www.lcsc.com/product-detail/C2888493.html,3,50,$0.01 ,$0.54 
-,ESP32-C3 MCU,IoT mini development board,XIAO-ESP32-C3-SMD,https://files.seeedstudio.com/wiki/XIAO_WiFi/Resources/esp32-c3_datasheet.pdf,-,https://www.aliexpress.com/item/1005006979844970.html,1,1,$5.67 ,$5.67
-,OLED Display,0.96' Inch OLED Display,HS96L03W2C03,https://www.lcsc.com/datasheet/C5248080.pdf,C5248080,https://www.lcsc.com/product-detail/C5248080.html,1,1,$2.24 ,$2.24 
-,PCB , PCB fabrication using JLPCB,-,  -,-, -,1,5,-,$4.00
-,Shipping, Shipping to a country outside EU so its expensive,-,-, -,-, -,-,$26.00
-Total,-,-,-,-,-,-,8,68,$13.10 ,$43.88 
+Item,Description,Value,Datasheet,LCSC Part,Link,Qty,MOQ,Unit Price,Total Price
+Battery,Single-cell battery,Battery_Cell,https://www.kiwi-electronics.com/image/catalog/pdf/LP503035%20500mAh%203.7V%20%28AD306053%29%2020230615%5B34%5D.pdf,-,https://www.aliexpress.com/item/1005006043243361.html,1,1,$5.11,$5.11
+Buzzer,Passive Buzzer,1207-P6.5MM,https://www.lcsc.com/datasheet/C49246964.pdf,C49246964,https://www.lcsc.com/product-detail/C49246964.html,1,10,$0.03,$0.32
+Switch,"Push button switch, generic, two pins",SW_Push,https://www.lcsc.com/datasheet/C2888493.pdf,C2888493,https://www.lcsc.com/product-detail/C2888493.html,3,50,$0.01,$0.54
+ESP32-C3 MCU,IoT mini development board,XIAO-ESP32-C3-SMD,https://files.seeedstudio.com/wiki/XIAO_WiFi/Resources/esp32-c3_datasheet.pdf,-,https://www.aliexpress.com/item/1005006979844970.html,1,1,$5.67,$5.67
+OLED Display,0.96 Inch OLED Display,HS96L03W2C03,https://www.lcsc.com/datasheet/C5248080.pdf,C5248080,https://www.lcsc.com/product-detail/C5248080.html,1,1,$2.24,$2.24
+PCB,PCB fabrication using JLCPCB,-,-,-,-,1,5,-,$4.00
+Shipping,Shipping to a country outside EU so it's expensive,-,-,-,-,1,1,-,$26.00
+Total,-,-,-,-,-,8,68,$13.10,$43.88
