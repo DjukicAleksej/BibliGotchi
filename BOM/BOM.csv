@@ -5,5 +5,5 @@ Switch,"Push button switch, generic, two pins",SW_Push,https://www.lcsc.com/data
 ESP32-C3 MCU,IoT mini development board,XIAO-ESP32-C3-SMD,https://files.seeedstudio.com/wiki/XIAO_WiFi/Resources/esp32-c3_datasheet.pdf,-,https://www.aliexpress.com/item/1005006979844970.html,1,1,$5.67,$5.67
 OLED Display,0.96 Inch OLED Display,HS96L03W2C03,https://www.lcsc.com/datasheet/C5248080.pdf,C5248080,https://www.lcsc.com/product-detail/C5248080.html,1,1,$2.24,$2.24
 PCB,PCB fabrication using JLCPCB,-,-,-,-,1,5,-,$4.00
-Shipping,Shipping to a country outside EU so it's expensive,-,-,-,-,1,1,-,$26.00
+PCB Shipping,Shipping to a country outside EU so it's expensive,-,-,-,-,1,1,-,$26.00
 Total,-,-,-,-,-,8,68,$13.10,$43.88
