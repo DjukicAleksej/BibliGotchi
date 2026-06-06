@@ -88,10 +88,11 @@ BibliGotchi is built around the **Seeed Studio XIAO ESP32-C3**, utilizing a cust
 | Battery | Single-cell battery | Battery_Cell | | 1 | 1 | $5.11 | $5.11 | [Datasheet](https://www.kiwi-electronics.com/image/catalog/pdf/LP503035%20500mAh%203.7V%20%28AD306053%29%2020230615%5B34%5D.pdf), [Purchase Link](https://www.aliexpress.com/item/1005006043243361.html) |
 | Buzzer | Passive Buzzer | 1207-P6.5MM | C49246964 | 1 | 10 | $0.03 | $0.32 | [Datasheet](https://www.lcsc.com/datasheet/C49246964.pdf), [Purchase Link](https://www.lcsc.com/product-detail/C49246964.html) |
 | Switch | Push button switch, generic, two pins | SW_Push | C2888493 | 3 | 50 | $0.01 | $0.54 | [Datasheet](https://www.lcsc.com/datasheet/C2888493.pdf), [Purchase Link](https://www.lcsc.com/product-detail/C2888493.html) |
-| ESP32-C3 MCU | IoT mini development board | XIAO-ESP32-C3-SMD | | 1 | 1 | $6.15 | $5.67 | [Datasheet](https://files.seeedstudio.com/wiki/XIAO_WiFi/Resources/esp32-c3_datasheet.pdf), [Purchase Link](https://www.aliexpress.com/item/1005006979844970.html) |
+| ESP32-C3 MCU | IoT mini development board | XIAO-ESP32-C3-SMD | | 1 | 1 | $5.67 | $5.67 | [Datasheet](https://files.seeedstudio.com/wiki/XIAO_WiFi/Resources/esp32-c3_datasheet.pdf), [Purchase Link](https://www.aliexpress.com/item/1005006979844970.html) |
 | OLED Display | 0.96" Inch OLED Display | HS96L03W2C03 | C5248080 | 1 | 1 | $2.24 | $2.24 | [Datasheet](https://www.lcsc.com/datasheet/C5248080.pdf), [Purchase Link](https://www.lcsc.com/product-detail/C5248080.html) |
-| PCB + Shipping | Hardware Fabrication Support | - | - | 1 | 5 | - | $30.00 | - |
-| **Total** | | | | **8** | **68** | **$13.54** | **$43.88** | |
+| PCB | Hardware Fabrication Support | - | - | 1 | 5 | - | $4.00 | - |
+| PCB Shipping | Shipping for the PCB, its kinda expensive cause I live outside the EU | - | - | - | - | - | $26.00 | - |
+| **Total** | | | | **8** | **68** | **$13.10** | **$43.88** | |
 
 ### ⚙️ Structural Fasteners (Build BOM)
 
