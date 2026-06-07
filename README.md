@@ -114,14 +114,14 @@ Seat the Battery into its enclosure in the Bottom Part, then put heat set insert
 
 | Align the Battery | Secure it with the Battery Holder |
 | :---: | :---: |
-| <img src="Images/PCB_Images/Step1_1.png" width="100%" style="border-radius: 8px;"> | <img src="Images/PCB_Images/Step1_2.png" width="100%" style="border-radius: 8px;"> |
+| <img src="Images/Assembly_Tutorial/Step1_1.png" width="100%" style="border-radius: 8px;"> | <img src="Images/Assembly_Tutorial/Step1_2.png" width="100%" style="border-radius: 8px;"> |
 
 ### Step 2: Assembling the PCB and the Top Cover to the Bottom Part
 Press-fit the M3 brass heat-set inserts straight into the designated holes inside the lower structural wall. Bring the PCB to align its mounting holes with the supports from the Bottom Part, and then Align the Top Cover so that you can screw in the top cover and bottom cover through the hole nicely,  and drive the M3 L20 screws downward to securely clamp the whole sandwich layer together.
 
 | Put in the M3 heat set inserts | Align the PCB | Put the Top Cover Nicely aligned on the PCB |
 | :--: | :---: | :---: |
-| <img src="Images/Assembly_Tutorial/Step2_1.png" width="100%" style="border-radius: 8px;"> | <img src="Images/Case_Images/Step2_2.png" width="100%" style="border-radius: 8px;"> |  <img src="Images/Case_Images/Step2_3.png" width="100%" style="border-radius: 8px;"> |
+| <img src="Images/Assembly_Tutorial/Step2_1.png" width="100%" style="border-radius: 8px;"> | <img src="Images/Assembly_Tutorial/Step2_2.png" width="100%" style="border-radius: 8px;"> |  <img src="Images/Assembly_Tutorial/Step2_3.png" width="100%" style="border-radius: 8px;"> |
 
 ---
 
