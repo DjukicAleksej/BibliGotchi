@@ -109,40 +109,19 @@ BibliGotchi is built around the **Seeed Studio XIAO ESP32-C3**, utilizing a cust
 
 ## 🔧 Case Assembly Tutorial
 
-### Step 1: Align the Main PCB
-Seat the routed PCB down directly into the bottom shelf of the plastic casing. Ensure all standard routing reference holes drop flush against their alignment structural standoffs.
+### Step 1: Putting in the Battery
+Seat the Battery into its enclosure in the Bottom Part, then put heat set inserts into the Battery Holder and place it onto the Battery Enclosure and screw it in.
 
-| Align the PCB | Seat into the Enclosure Base |
+| Align the Battery | Secure it with the Battery Holder |
 | :---: | :---: |
-| <img src="Images/PCB_Images/Step0_1.png" width="100%" style="border-radius: 8px;"> | <img src="Images/PCB_Images/Step0_2.png" width="100%" style="border-radius: 8px;"> |
+| <img src="Images/PCB_Images/Step1_1.png" width="100%" style="border-radius: 8px;"> | <img src="Images/PCB_Images/Step1_2.png" width="100%" style="border-radius: 8px;"> |
 
-### Step 2: Set Enclosure Fasteners
-Press-fit the M3 brass heat-set inserts straight into the designated holes inside the lower structural wall. Bring the top half of the shell down flush, and drive the M3 L20 screws downward to securely clamp the whole sandwich layer together.
+### Step 2: Assembling the PCB and the Top Cover to the Bottom Part
+Press-fit the M3 brass heat-set inserts straight into the designated holes inside the lower structural wall. Bring the PCB to align its mounting holes with the supports from the Bottom Part, and then Align the Top Cover so that you can screw in the top cover and bottom cover through the hole nicely,  and drive the M3 L20 screws downward to securely clamp the whole sandwich layer together.
 
-| Align the Top Part | Fasten Through the Structural Stack |
-| :---: | :---: |
-| <img src="Images/Assembly_Tutorial/Step1_1.png" width="100%" style="border-radius: 8px;"> | <img src="Images/Case_Images/Top_Side-View.png" width="100%" style="border-radius: 8px;"> |
-
-### Step 3: Secure Lateral Side Screws
-Gently melt your M2 heat-set inserts directly down into the side alignment sockets. Thread your M2 screws completely flush to remove flexing artifacts.
-
-| Insert M2 Screws Into Side Openings | Tighten Down Evenly |
-| :---: | :---: |
-| <img src="Images/Assembly_Tutorial/Step3_1.png" width="100%" style="border-radius: 8px;"> | <img src="Images/Assembly_Tutorial/Step3_3.png" width="100%" style="border-radius: 8px;"> |
-
-### Step 4: Drop-in LiPo Power Source
-Gently guide the LiPo cell into its modular holding block nestled directly inside the structural case shell.
-
-| Place Battery Inside the Modular Bay |
-| :---: |
-| <img src="Images/Assembly_Tutorial/Step4_2.png" width="50%" style="border-radius: 8px;"> |
-
-### Step 5: Secure the Battery Retention Bar
-Insert the dedicated M2 heat-set elements into the mounting holes next to the battery compartment. Bring down the battery retention bracket and snug them down using your M2 L8mm structural screws to ensure the battery stays firmly locked during movement.
-
-| Set the Retaining Screws | Battery Assembly Confirmed |
-| :---: | :---: |
-| <img src="Images/Assembly_Tutorial/Step5_1.png" width="100%" style="border-radius: 8px;"> | <img src="Images/Assembly_Tutorial/Step5_2.png" width="100%" style="border-radius: 8px;"> |
+| Put in the M3 heat set inserts | Align the PCB | Put the Top Cover Nicely aligned on the PCB |
+| :--: | :---: | :---: |
+| <img src="Images/Assembly_Tutorial/Step2_1.png" width="100%" style="border-radius: 8px;"> | <img src="Images/Case_Images/Step2_2.png" width="100%" style="border-radius: 8px;"> |  <img src="Images/Case_Images/Step2_3.png" width="100%" style="border-radius: 8px;"> |
 
 ---
 
