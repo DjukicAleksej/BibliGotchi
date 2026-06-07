@@ -98,12 +98,11 @@ BibliGotchi is built around the **Seeed Studio XIAO ESP32-C3**, utilizing a cust
 
 | Item | Description | Quantity | Total Price |
 | :--- | :--- | :---: | :--- |
-| M3 L20 Screws | Connects the structural Bottom and Top case layers while mounting the internal PCB safely | 2 | $0.10 (Bulk: ~$5.00) |
-| M2 Screws L16mm | Threaded laterally into the side joints to guarantee optimal rigidity | 2 | $0.10 (Bulk: ~$5.00) |
-| M2 Screws L8mm | Shorter structural screws allocated to tighten down the custom internal battery clamp | 2 | $0.10 (Bulk: ~$4.00) |
-| M3 Heat Set Inserts | Threaded brass inserts allowing permanent, secure fastening profiles for outer casing | 2 | $0.10 (Bulk: ~$4.00) |
-| M2 Heat Set Inserts | High-precision brass inserts matching structural point stabilization requirements | 4 | $0.20 (Bulk: ~$4.00) |
-| **Total** | | **12** | **$0.60** (Actual Bulk Total: ~$22.00) |
+| M3 L20 Screws | Connects the structural Bottom and Top case layers while mounting the internal PCB safely | 2 | $0.10 
+| M2 Screws L8mm | Shorter structural screws allocated to tighten down the custom internal battery clamp | 2 | $0.10 
+| M3 Heat Set Inserts | Threaded brass inserts allowing permanent, secure fastening profiles for outer casing | 2 | $0.10 
+| M2 Heat Set Inserts | High-precision brass inserts matching structural point stabilization requirements | 2 | $0.20 
+| **Total** | | **12** | **$0.60** |
 
 ---
 
