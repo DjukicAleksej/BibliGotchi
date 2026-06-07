@@ -18,7 +18,7 @@
   I built this project to qualify for <strong>Fallout</strong>, a hardware hackathon organized by the non-profit community <strong>Hack Club</strong>. I gravitated toward building a Tamagotchi because it sits at the perfect crossroads: complex enough to challenge my design skills, yet interactive enough to stand out. In a world saturated with purely web-based apps, having a tangible, physical device makes it uniquely engaging. Through this process, I significantly deepened my understanding of firmware architecture and structural enclosure engineering.
 </p>
 
-<img src="Zine.png" width="600" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin: 20px 0;">
+<img src="Zine-PNG.png" width="600" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin: 20px 0;">
 
 ---
 
